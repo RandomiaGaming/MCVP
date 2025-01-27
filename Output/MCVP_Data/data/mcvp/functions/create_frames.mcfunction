@@ -1,1 +1,0 @@
-execute at @e[tag=MCVPDisplay] run function mcvp:create_frame
